@@ -4,7 +4,7 @@ from threading import Thread
 
 class Streamlit:
   def __init__(self,
-               auth_token = '2ctTxXQENM9On1GMyfUCaeA9Dxg_83vzLhmYYRJ9267BRzSPZ',
+               auth_token = '',
                app_path = 'app.py',
                port = 8000):
     self.auth_token = auth_token
