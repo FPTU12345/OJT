@@ -5,6 +5,6 @@ For Data Visualization for EDA, here are the available plots:
 |Type|Test Image|
 |--|--|
 |Box plot|![Image Link](https://github.com/FPTU12345/OJT/blob/main/CSV_EDA_Chatbot/img/demo2.PNG)|
-|Count plot|[Image Link](https://github.com/FPTU12345/OJT/blob/main/CSV_EDA_Chatbot/img/demo1.PNG)|
+|Count plot|![Image Link](https://github.com/FPTU12345/OJT/blob/main/CSV_EDA_Chatbot/img/demo1.PNG)|
 |Scatter plot|![Image Link](https://github.com/FPTU12345/OJT/blob/main/CSV_EDA_Chatbot/img/demo3.PNG)|
 |Line plot|![Image Link](https://github.com/FPTU12345/OJT/blob/main/CSV_EDA_Chatbot/img/demo4.PNG)
