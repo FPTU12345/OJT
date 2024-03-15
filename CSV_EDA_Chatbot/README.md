@@ -1,5 +1,8 @@
 # Chatbot for analysing data on a specific CSV file
-In this app, you can write a query to ask the chatbot what to draw and what steps to process the data.
+In this app, you can write a query to ask the chatbot what to draw and what steps to process the data. The image below visualize the entire steps of the chatbot
+
+
+![Image link](https://github.com/FPTU12345/OJT/blob/main/CSV_EDA_Chatbot/img/Untitled%20Diagram.drawio%20(4).png)
 
 ## EDA
 For Data Visualization for EDA, here are the available plots:
