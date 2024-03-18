@@ -27,7 +27,7 @@ class ImputeMissingValue(DataProcessing):
       elif option == 'mean':
         df[column_name] = df[column_name].fillna(df[column_name].mean())
       elif option == 'median':
-        df[column_name] = df[column_name].fillna(df[column_name].mean())
+        df[column_name] = df[column_name].fillna(df[column_name].median())
     return df
 
 class DropColumn(DataProcessing):
